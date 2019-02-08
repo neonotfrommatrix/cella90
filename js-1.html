@@ -8,7 +8,7 @@
 <canvas id="grid" width="400" height="400"></canvas>
 
 </body>
-<script src="../assets/draw-stuff.js"></script>
+<script src="./assets/draw-stuff.js"></script>
 <script>
 // after "Introducing JavaScript Game Development" by Stuart.
 
@@ -27,8 +27,8 @@ function draw_title( context )
   var context = canvas.getContext( "2d" );
   draw_rect( context );
   // Draw a grid
-  draw_grid( context, 10, 50, 'white', 'yellow' );
+  draw_grid( context, 10, 50, 'blue', 'black' );
   draw_title( context );
-
+  find_next( context );
 </script>
 </html>
