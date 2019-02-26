@@ -18,3 +18,23 @@ How to show (and run) the web page:
 
 (*) Key: use fcn key F12 to open a "javascript console" in your browser
 and see what might be going wrong: errors and warnings.
+
+
+
+- Class Number: 335
+
+- Project Number and Name: Project #1 Cella-Rule 90
+
+- Team name and members: TNK; Tim Parks, Natalie Ottolia, Ken Kumagai;
+//TO BE COMPLETED
+- Introduction:
+
+- External Requirements
+
+- Set up and installation:
+
+- Sample invocation:
+
+- Features:
+
+- Bugs (if any):
